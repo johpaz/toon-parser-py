@@ -18,4 +18,4 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/johpaz/toon-format-parser"
+"Homepage" = "https://github.com/johpaz/toon-parser-py"
